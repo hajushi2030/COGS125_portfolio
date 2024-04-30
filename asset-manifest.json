@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/COGS125_portfolio/static/css/main.825488a5.css",
-    "main.js": "/COGS125_portfolio/static/js/main.d441a9fe.js",
-    "static/media/code2.png": "/COGS125_portfolio/static/media/code2.991831d0a626b3b8e8b3.png",
-    "static/media/hjs.jpg": "/COGS125_portfolio/static/media/hjs.c00443aa3f878d570575.jpg",
-    "index.html": "/COGS125_portfolio/index.html",
-    "main.825488a5.css.map": "/COGS125_portfolio/static/css/main.825488a5.css.map",
-    "main.d441a9fe.js.map": "/COGS125_portfolio/static/js/main.d441a9fe.js.map"
+    "main.css": "/hajushi2030/react-gh-pages.git/static/css/main.825488a5.css",
+    "main.js": "/hajushi2030/react-gh-pages.git/static/js/main.c9eb9663.js",
+    "static/media/code2.png": "/hajushi2030/react-gh-pages.git/static/media/code2.991831d0a626b3b8e8b3.png",
+    "static/media/hjs.jpg": "/hajushi2030/react-gh-pages.git/static/media/hjs.c00443aa3f878d570575.jpg",
+    "index.html": "/hajushi2030/react-gh-pages.git/index.html",
+    "main.825488a5.css.map": "/hajushi2030/react-gh-pages.git/static/css/main.825488a5.css.map",
+    "main.c9eb9663.js.map": "/hajushi2030/react-gh-pages.git/static/js/main.c9eb9663.js.map"
   },
   "entrypoints": [
     "static/css/main.825488a5.css",
-    "static/js/main.d441a9fe.js"
+    "static/js/main.c9eb9663.js"
   ]
 }
