@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hajushi2030/COGS125_portfolio.git/static/css/main.825488a5.css",
+    "main.js": "/hajushi2030/COGS125_portfolio.git/static/js/main.7655283a.js",
+    "static/media/code2.png": "/hajushi2030/COGS125_portfolio.git/static/media/code2.991831d0a626b3b8e8b3.png",
+    "static/media/hjs.jpg": "/hajushi2030/COGS125_portfolio.git/static/media/hjs.c00443aa3f878d570575.jpg",
+    "index.html": "/hajushi2030/COGS125_portfolio.git/index.html",
+    "main.825488a5.css.map": "/hajushi2030/COGS125_portfolio.git/static/css/main.825488a5.css.map",
+    "main.7655283a.js.map": "/hajushi2030/COGS125_portfolio.git/static/js/main.7655283a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.825488a5.css",
+    "static/js/main.7655283a.js"
+  ]
+}
