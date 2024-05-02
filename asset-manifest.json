@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/COGS125_portfolio/static/css/main.825488a5.css",
-    "main.js": "/COGS125_portfolio/static/js/main.ed1b4748.js",
+    "main.js": "/COGS125_portfolio/static/js/main.5ec9c23f.js",
     "static/media/code2.png": "/COGS125_portfolio/static/media/code2.991831d0a626b3b8e8b3.png",
     "static/media/hjs.jpg": "/COGS125_portfolio/static/media/hjs.c00443aa3f878d570575.jpg",
     "index.html": "/COGS125_portfolio/index.html",
     "main.825488a5.css.map": "/COGS125_portfolio/static/css/main.825488a5.css.map",
-    "main.ed1b4748.js.map": "/COGS125_portfolio/static/js/main.ed1b4748.js.map"
+    "main.5ec9c23f.js.map": "/COGS125_portfolio/static/js/main.5ec9c23f.js.map"
   },
   "entrypoints": [
     "static/css/main.825488a5.css",
-    "static/js/main.ed1b4748.js"
+    "static/js/main.5ec9c23f.js"
   ]
 }
